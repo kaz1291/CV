@@ -1,0 +1,108 @@
+
+/*
+#CDF0EA
+*/
+
+.top-container {
+    background-color: #CDF0EA;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: white;
+    padding-bottom: 100px;
+}
+
+.bottom-container {
+    padding: 50px;
+    background-color: #CDF0EA;
+}
+body {
+    background-color: #CDF0EA;
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+}
+hr {
+    border-style: none none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: #CDF0EA;
+    width: 15%;
+    background-color: #white;
+}
+
+h1 {
+    color: #C490E4;
+    font-size: 3.2rem;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #7D1E6A;
+    margin-top: 0px;
+}
+
+.skill-h3 {
+    color: #7D1E6A;
+}
+
+/*
+.skill-p {
+    text-align: left;
+}
+*/
+
+.top-cloud {
+    position: absolute;
+    top: 40px;
+    right: 32%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 25%;
+}
+
+.lala {
+    color: #C490E4;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-img{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link {
+    margin: auto 20px auto 20px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #C490E4;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d4b5e8;
+  text-decoration: none;
+}

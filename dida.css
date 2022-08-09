@@ -1,0 +1,59 @@
+
+/*
+#CDF0EA
+*/
+
+.container {
+    background-color: #CDF0EA;
+    position: relative;
+    width: 500px;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+
+
+}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    
+
+}
+body {
+    margin: 0;
+}
+/*
+hr {
+    border-style: none none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: #F9F9F9;
+    width: 15%;
+    background-color: #CDF0EA;
+}
+*/
+
+h1 {
+    color: #C490E4;
+}
+
+.lala {
+    color: #C490E4;
+}
